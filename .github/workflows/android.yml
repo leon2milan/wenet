@@ -6,7 +6,7 @@ on:
       modelURL:
         description: 'Model URL'
         required: true
-        default: https://wenet-1256283475.cos.ap-shanghai.myqcloud.com/models/aishell/20210601_u2%2B%2B_conformer_libtorch.tar.gz
+        default: https://wenet-1256283475.cos.ap-shanghai.myqcloud.com/models/wenetspeech/20220506_u2pp_conformer_libtorch.tar.gz
 
 env:
   ANDROID_DIR: runtime/device/android/wenet
